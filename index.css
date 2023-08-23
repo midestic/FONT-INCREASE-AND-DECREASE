@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+}
+
+
+header {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+
+
+#btn-decrease {
+    margin-right: 24px;
+    width: auto;
+    padding: 10;
+    font-size: 30px;
+}
+
+
+#btn-increase {
+    width: auto;
+    padding: 10;
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+#box {
+    width: 100%;
+    text-align: center;
+    margin-top: 400px;
+}
